@@ -1,0 +1,27 @@
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee Game\bin\x86\Debug\Yahtzee Game.exe.config
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee_Game.Form1.resources
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee_Game.Properties.Resources.resources
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee Game\bin\x86\Debug\Yahtzee Game.exe
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee Game\bin\x86\Debug\Yahtzee Game.pdb
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee Game.exe
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee Game.pdb
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee\Yahtzee Game\bin\x86\Debug\Yahtzee Game.exe.config
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee Game.exe
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee Game.pdb
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee\Yahtzee Game\bin\x86\Debug\Yahtzee Game.exe
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee\Yahtzee Game\bin\x86\Debug\Yahtzee Game.pdb
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee_Game.Form1.resources
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee_Game.Properties.Resources.resources
+E:\AA QUT\Semester 2\CAB201\Yahtzee\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+E:\AA QUT\Semester 2\CAB201\Proper Yahtzee\Yahtzee\Yahtzee Game\bin\x86\Debug\Yahtzee Game.exe.config
+E:\AA QUT\Semester 2\CAB201\Proper Yahtzee\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee Game.exe
+E:\AA QUT\Semester 2\CAB201\Proper Yahtzee\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee Game.pdb
+E:\AA QUT\Semester 2\CAB201\Proper Yahtzee\Yahtzee\Yahtzee Game\bin\x86\Debug\Yahtzee Game.exe
+E:\AA QUT\Semester 2\CAB201\Proper Yahtzee\Yahtzee\Yahtzee Game\bin\x86\Debug\Yahtzee Game.pdb
+E:\AA QUT\Semester 2\CAB201\Proper Yahtzee\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+E:\AA QUT\Semester 2\CAB201\Proper Yahtzee\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee_Game.Form1.resources
+E:\AA QUT\Semester 2\CAB201\Proper Yahtzee\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee_Game.Properties.Resources.resources
+E:\AA QUT\Semester 2\CAB201\Proper Yahtzee\Yahtzee\Yahtzee Game\obj\x86\Debug\Yahtzee Game.csproj.GenerateResource.Cache
