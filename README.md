@@ -1,3 +1,3 @@
 # Yahtzee
 Authors : Max Taylor & Daniel Huffer
-CAB201 Assignment - Queensland University of Australia
+CAB201 Assignment - Queensland University of Technology
